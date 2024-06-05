@@ -58,7 +58,7 @@ img {
   background-color: #081b31;
   color: #fff;
   font-size: 1.4rem;
-  display: inline;
+  display: inline-block;
   padding: 1rem;
   border-radius: 1rem;
 }
